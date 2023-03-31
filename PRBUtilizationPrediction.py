@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 #read stats
 
 
-data_add=r"D:\Reports_Projects\DS_ML_Tavanafarin_Training\proj15\Peoj15_20221204120200_297.csv"
+data_add=r"D:\Reports_Projects\DS_ML_Tavanafarin_Training\proj15\Input.csv"
 data=pd.read_csv(data_add, thousands=',', header=1)
 
 
