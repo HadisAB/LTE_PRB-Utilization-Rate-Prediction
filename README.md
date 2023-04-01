@@ -2,7 +2,7 @@
 In this project we are supposed to predict the PRB utilization rate of LTE sites in a mobile telecommunication network.
 
 ## Goal
-As the sites usage is changing in special events, it is a good idea to predict their behaviour, find the congested sites and locate cow-sites in their area or plan new sites. So in this project we applied a method to predict the 'PRB_Utilization_Rate' weekly KPI per site and find future congestions in the network.
+As the sites usage is changing during special events, it is a good idea to predict their behaviour, find the congested sites and locate cow-sites in their area or plan new sites. So in this project, I applied a method to predict the 'PRB_Utilization_Rate' weekly KPI per site and find future congestions in the network.
 
 ## Method
 - Export data from DB or relevant tools.
